@@ -63,3 +63,11 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+/.gradle/config.properties
+/android/*
+/ios/*
+/linux/*
+/macos/*
+/web/*
+/windows/*
+/local.properties
